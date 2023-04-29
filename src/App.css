@@ -8,6 +8,12 @@
 	display: inline;
 }
 
+.title img{
+  width: 60%;
+  height: auto;
+
+}
+
 .navlinks a{
 	letter-spacing: 0.15em;
 	font-weight: bolder;
