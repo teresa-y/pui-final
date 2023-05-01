@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 export default function Project(props) {
     return (
 		<div id = "project">
@@ -9,7 +11,7 @@ export default function Project(props) {
 					<div className="skill">{props.skills}</div>
 					<h3>{props.title}</h3>
 					<p>{props.description}</p>
-					<a href = "index.html" className ="btn btn-outline-primary">Learn more</a>
+					<Link to={props.projectLink} className ="btn btn-outline-primary">Learn more</Link>
 				</div>	
 			</div>
 		</div>

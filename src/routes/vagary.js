@@ -3,7 +3,7 @@ export default function Vagary() {
         <div className="project-content">
             <div className = "row">
                 <div className="project-page-img">
-                <img className="img-fluid" src="../assets/vagary-projectpage.png"/>
+                <img className="img-fluid" src="../assets/vagary-projectpage.png" alt="vagary screens"/>
                 </div>
             </div>
             <h2>Vagary</h2>

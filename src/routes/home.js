@@ -1,6 +1,4 @@
-import Header from "../components/header";
 import ProjectList from "../components/projectlist";
-import Footer from "../components/footer";
 
 export default function Home() {
     return (

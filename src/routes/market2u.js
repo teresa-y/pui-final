@@ -1,9 +1,11 @@
+import market2uprojectpage from "../images/market2u-projectpage.png"
+
 export default function Market2U() {
     return (
         <div className="project-content">
             <div className = "row">
                 <div className="project-page-img">
-                <img className="img-fluid" src="../images/market2u-projectpage.png"/>
+                <img className="img-fluid" src={market2uprojectpage} alt="select market2u screens"/>
                 </div>
             </div>
             <h2>Market2U</h2>

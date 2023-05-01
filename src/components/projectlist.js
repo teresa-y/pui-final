@@ -12,7 +12,8 @@ const projectData = [
         alt: "thumbnail of market2u screens",
         title: "Market2U",
         skills: "responsive web design, ui/ux design",
-        description: "Responsive web design for a grocery shopping service for those who cannot leave their homes."
+        description: "Responsive web design for a grocery shopping service for those who cannot leave their homes.",
+        projectLink: "/market2u"
     },
 
     {
@@ -50,7 +51,7 @@ const projectData = [
 ]
 
 const projects = projectData.map(proj => (
-    <Project key = {proj.title} pic={proj.pic} alt={proj.alt} title={proj.title} skills={proj.skills} description={proj.description} />
+    <Project key = {proj.title} pic={proj.pic} alt={proj.alt} title={proj.title} skills={proj.skills} description={proj.description} projectLink={proj.projectLink}/>
   ));
 
 export default function ProjectList() {

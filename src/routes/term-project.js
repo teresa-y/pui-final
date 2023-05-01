@@ -3,7 +3,7 @@ export default function TermProject(){
         <div className="project-content">
         <div className = "row">
             <div className="project-page-img">
-                <img className="img-fluid" src = "../assets/tp-projectpage.png"/>
+                <img className="img-fluid" src = "../assets/tp-projectpage.png" alt="screenshot of calendar application"/>
             </div>
         </div>
         
@@ -23,7 +23,7 @@ export default function TermProject(){
                 I created this for the CMU 15-112 term project, a 2.5-week long coding project
              to create an application focused on user experience and algorithmic complexity.</p>
             <h3>Wireframes</h3>
-            <img className="img-fluid" src = "../assets/tp-storyboard.jpg"/><br/>
+            <img className="img-fluid" src = "../assets/tp-storyboard.jpg" alt = "prelimary storyboard of getting my life together"/><br/>
             <h3 id="final-tp">Final Product</h3><br/>
             <div className="ratio ratio-16x9">
                 <iframe src="https://www.youtube.com/embed/qRM2Cz4dwMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
