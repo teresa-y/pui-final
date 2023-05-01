@@ -1,15 +1,15 @@
 export default function TCAReel(){
     return (
-        <div class="project-content">
-        <div class = "row">
-            <div class="project-page-img">
-                <div class="ratio ratio-16x9">
+        <div className="project-content">
+        <div className = "row">
+            <div className="project-page-img">
+                <div className="ratio ratio-16x9">
                     <iframe src="https://www.youtube.com/embed/qXx1mPgNslM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>                  
             </div>
         </div>
         <h2>Technical Character Animation Reel</h2>
-		<div class="project-desc">
+		<div className="project-desc">
 		<p>Fall 2021<br/>
 			Tools: Autodesk Maya 2022, Arnold<br/><br/>
 			
