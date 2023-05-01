@@ -1,4 +1,4 @@
-import market2uprojectpage from "../images/market2u-projectpage.png"
+import market2uprojectpage from "../images/market2u/market2u-projectpage.png"
 
 export default function Market2U() {
     return (

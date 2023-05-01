@@ -24,7 +24,7 @@ function App() {
           <Route path="/market2u" element={<Market2U />} />
           <Route path="/vagary" element={<Vagary />} />
           <Route path="/cookies-banner" element={<CookiesBanner />} />
-          <Route path="/term-project" element={<TermProject />} />
+          <Route path="/calendar" element={<TermProject />} />
           <Route path="/tca-reel" element={<TCAReel />} />
        </Routes>
       <Footer />

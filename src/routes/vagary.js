@@ -1,9 +1,11 @@
+import vagaryprojectpage from "../images/vagary/vagary-projectpage.png"
+
 export default function Vagary() {
     return (
         <div className="project-content">
             <div className = "row">
                 <div className="project-page-img">
-                <img className="img-fluid" src="../assets/vagary-projectpage.png" alt="vagary screens"/>
+                <img className="img-fluid" src={vagaryprojectpage} alt="vagary screens"/>
                 </div>
             </div>
             <h2>Vagary</h2>
