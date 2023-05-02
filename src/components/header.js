@@ -32,10 +32,10 @@ export default function Header() {
 
         <div className ="nav">
         <div className = "title" >
-            <NavLink to="/"><img className="img-fluid" src={name} alt="website logo" ref={elementRef} onMouseEnter={startAnimation} onMouseLeave={resetAnimation}/></NavLink>
+            <NavLink to="/pui-final"><img className="img-fluid" src={name} alt="website logo" ref={elementRef} onMouseEnter={startAnimation} onMouseLeave={resetAnimation}/></NavLink>
         </div>
         <div className = "navlinks">
-            <NavLink to="/">work</NavLink>
+            <NavLink to="/pui-final">work</NavLink>
             <NavLink to="/about">about</NavLink>
         </div> 
     </div>

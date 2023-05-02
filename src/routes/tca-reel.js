@@ -4,7 +4,7 @@ export default function TCAReel(){
         <div className = "row">
             <div className="project-page-img">
                 <div className="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/qXx1mPgNslM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/qXx1mPgNslM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                   </div>                  
             </div>
         </div>

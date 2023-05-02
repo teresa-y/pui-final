@@ -11,7 +11,7 @@ export default function About() {
 				</div>
 				<div className="col-sm-12 col-md-8 col-lg-7 mb-5">
 					<h3>Hi! I'm Teresa.</h3>
-					<p> I am currently a junior studying <a href="https://www.cmu.edu/information-systems/">Information Systems</a> and <a href="https://www.hcii.cmu.edu/">Human-Computer Interaction</a> at Carnegie Mellon University. 
+					<p> I am currently a junior studying <a href="https://www.cmu.edu/information-systems/" rel="noreferrer" target="_blank">Information Systems</a> and <a href="https://www.hcii.cmu.edu/" rel="noreferrer" target="_blank">Human-Computer Interaction</a> at Carnegie Mellon University. 
 						I'm interested in connecting with audiences and creating meaningful work and joy, whether it be through designing interactions, building digital spaces, or my artwork.<br/><br/>
 						In my free time, I like to draw and play mobile games.<br/><br/>
 						Let's connect! Feel free to reach me at tyy@andrew.cmu.edu.</p>

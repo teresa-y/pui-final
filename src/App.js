@@ -18,7 +18,7 @@ function App() {
     <div className="main">
       <Header />
       <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/pui-final" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/market2u" element={<Market2U />} />
           <Route path="/vagary" element={<Vagary />} />

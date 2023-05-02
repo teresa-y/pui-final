@@ -29,7 +29,7 @@ export default function TermProject(){
             <img className="img-fluid" src = {tpstoryboard} alt = "prelimary storyboard of getting my life together"/><br/>
             <h3 id="final-tp">Final Product</h3><br/>
             <div className="ratio ratio-16x9">
-                <iframe src="https://www.youtube.com/embed/qRM2Cz4dwMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/qRM2Cz4dwMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
         </div>
 
