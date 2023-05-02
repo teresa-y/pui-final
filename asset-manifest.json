@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pui-final/static/css/main.8b286dd3.css",
-    "main.js": "/pui-final/static/js/main.ae588c28.js",
+    "main.js": "/pui-final/static/js/main.e34c8819.js",
     "static/js/787.e9c4909b.chunk.js": "/pui-final/static/js/787.e9c4909b.chunk.js",
     "static/media/market2u-projectpage.png": "/pui-final/static/media/market2u-projectpage.f11a927a2deaf450dd9b.png",
     "static/media/vagary-projectpage.png": "/pui-final/static/media/vagary-projectpage.92ae7c486be38ba3897b.png",
@@ -35,11 +35,11 @@
     "static/media/name.png": "/pui-final/static/media/name.14ef94bea26fd718b65b.png",
     "index.html": "/pui-final/index.html",
     "main.8b286dd3.css.map": "/pui-final/static/css/main.8b286dd3.css.map",
-    "main.ae588c28.js.map": "/pui-final/static/js/main.ae588c28.js.map",
+    "main.e34c8819.js.map": "/pui-final/static/js/main.e34c8819.js.map",
     "787.e9c4909b.chunk.js.map": "/pui-final/static/js/787.e9c4909b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b286dd3.css",
-    "static/js/main.ae588c28.js"
+    "static/js/main.e34c8819.js"
   ]
 }
