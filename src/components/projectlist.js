@@ -13,7 +13,7 @@ const projectData = [
         title: "Vagary",
         skills: "ux research, ux design",
         description: "Trip planning application to help deal with spontaneity during travel.",
-        projectLink: "/vagary"
+        projectLink: "/pui-final/vagary"
     },
 
     {
@@ -22,7 +22,7 @@ const projectData = [
         title: "Market2U",
         skills: "responsive web design, ui/ux design",
         description: "Responsive web design for a grocery shopping service for those who cannot leave their homes.",
-        projectLink: "/market2u"
+        projectLink: "/pui-final/market2u"
     },
 
     {
@@ -31,7 +31,7 @@ const projectData = [
         title: "Re-designed Internet Cookies Banner",
         skills: "ux design",
         description: "Re-design of an Internet cookies banner to combat deceptive shopping practices online.",
-        projectLink: "/cookies-banner"
+        projectLink: "/pui-final/cookies-banner"
     },
 
     {
@@ -40,7 +40,7 @@ const projectData = [
         title: "Getting my Life Together",
         skills: "python, ux design",
         description: "Interactive calendar application intended to maximize productivity.",
-        projectLink: "/calendar"
+        projectLink: "/pui-final/calendar"
     },
 
     {
@@ -49,7 +49,7 @@ const projectData = [
         title: "Technical Character Animation Reel",
         skills: "3d animation, maya",
         description: "3D animation reel utilizing the 12 principles of animation, such as squash and stretch, timing and spacing, arcs, and more.",
-        projectLink: "/tca-reel"
+        projectLink: "/pui-final/tca-reel"
     }
        
 ]

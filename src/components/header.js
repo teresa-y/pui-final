@@ -36,7 +36,7 @@ export default function Header() {
         </div>
         <div className = "navlinks">
             <NavLink to="/pui-final">work</NavLink>
-            <NavLink to="/about">about</NavLink>
+            <NavLink to="/pui-final/about">about</NavLink>
         </div> 
     </div>
 

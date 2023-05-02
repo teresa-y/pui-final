@@ -19,12 +19,12 @@ function App() {
       <Header />
       <Routes>
           <Route path="/pui-final" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/market2u" element={<Market2U />} />
-          <Route path="/vagary" element={<Vagary />} />
-          <Route path="/cookies-banner" element={<CookiesBanner />} />
-          <Route path="/calendar" element={<TermProject />} />
-          <Route path="/tca-reel" element={<TCAReel />} />
+          <Route path="/pui-final/about" element={<About />} />
+          <Route path="/pui-final/market2u" element={<Market2U />} />
+          <Route path="/pui-final/vagary" element={<Vagary />} />
+          <Route path="/pui-final/cookies-banner" element={<CookiesBanner />} />
+          <Route path="/pui-final/calendar" element={<TermProject />} />
+          <Route path="/pui-final/tca-reel" element={<TCAReel />} />
        </Routes>
       <Footer />
     </div>
