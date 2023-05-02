@@ -2,7 +2,7 @@ import me from "../images/me.png"
 
 export default function About() {
     return (
-        <div id="about">
+        <div className="about">
 		<h2>About</h2>
 		<div className="container">
 			<div className="row">
@@ -15,7 +15,7 @@ export default function About() {
 						I'm interested in connecting with audiences and creating meaningful work and joy, whether it be through designing interactions, building digital spaces, or my artwork.<br/><br/>
 						In my free time, I like to draw and play mobile games.<br/><br/>
 						Let's connect! Feel free to reach me at tyy@andrew.cmu.edu.</p>
-						<a href="resume.pdf" target="_blank" className ="btn btn-outline-primary">Resume</a>
+						<a href="https://drive.google.com/file/d/1e5VWRqBDJri9SH5SaiGZ6bYa65kzPazo/view?usp=sharing" rel="noreferrer" target="_blank" className ="btn btn-outline-primary">Resume</a>
 				</div>
 			</div>
 		</div>

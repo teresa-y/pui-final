@@ -36,7 +36,7 @@ export default function CookiesBanner() {
             <h3>Research</h3>
                 <p>We conducted research through collecting examples of cookies banners ourselves, learning about what exactly cookies do through secondary research, and
                 held three interviews to understand the general public's knowledge of and feelings about these banners.<br/>
-                These were our main takeaways:<br/>
+                These were our main takeaways:<br/> </p>
             <ul>
                 <li>Some cookies are used to store login information, help websites run, and gather feedback for site troubleshooting</li>
                 <li>Many cookies allow cross-media tracking of users’ activity, which can be sold</li>
@@ -44,7 +44,6 @@ export default function CookiesBanner() {
                 <li>Users are not sure how they can change their preferences</li>
                 <li>Banners are often filled with confusing and unintuitive jargon</li>
             </ul>
-            </p>
             <h3>Synthesis</h3>
             <p>We created an affinity diagram to synthesize our research and discover user pain points as well as opportunities.</p>
             <img className="img-fluid" src = {synthesis} alt = "screenshot of affinity diagramming"/>

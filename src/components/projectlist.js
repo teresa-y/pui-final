@@ -8,21 +8,21 @@ import tca from "../images/thumbnails/tca-reel.png"
 const projectData = [
 
     {
-        pic: market2uimg, 
-        alt: "thumbnail of market2u screens",
-        title: "Market2U",
-        skills: "responsive web design, ui/ux design",
-        description: "Responsive web design for a grocery shopping service for those who cannot leave their homes.",
-        projectLink: "/market2u"
-    },
-
-    {
         pic: vagary, 
         alt: "thumbnail of vagary screens",
         title: "Vagary",
         skills: "ux research, ux design",
         description: "Trip planning application to help deal with spontaneity during travel.",
         projectLink: "/vagary"
+    },
+
+    {
+        pic: market2uimg, 
+        alt: "thumbnail of market2u screens",
+        title: "Market2U",
+        skills: "responsive web design, ui/ux design",
+        description: "Responsive web design for a grocery shopping service for those who cannot leave their homes.",
+        projectLink: "/market2u"
     },
 
     {
