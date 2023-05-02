@@ -21,7 +21,7 @@ export default function Vagary() {
             <p>Fall 2022 <br/>
             Team Members: Stephen Tao, Jessica Lai, Yifei Chen<br/>
             Tools: Figma<br/>
-            <a href="#final-vagary" className ="btn btn-outline-primary">Jump to Final Product</a>
+            <a href="pui-final/vagary#final-vagary" className ="btn btn-outline-primary">Jump to Final Product</a>
         </p>
         <h3>Problem Space</h3>
             <p>Trip planning can be a stressful and arduous process, and even with the most experienced in planners, 

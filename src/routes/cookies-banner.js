@@ -23,7 +23,7 @@ export default function CookiesBanner() {
             <p>Spring 2022 <br/>
             Team Members: Nora Wai, Nicole Korber, Nish Nilakantan, Andres del Cid <br/>
             Technologies: Figma<br/>
-            <a href="#final-cookie" className ="btn btn-outline-primary">Jump to Final Product</a>
+            <a href="pui-final/cookies-banner#final-cookie" className ="btn btn-outline-primary">Jump to Final Product</a>
         </p>
             <h3>
                 Problem

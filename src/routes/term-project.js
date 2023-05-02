@@ -14,7 +14,7 @@ export default function TermProject(){
             <h2>Getting my Life Together</h2>
             <p>Spring 2021 <br/>
             Tools: Python, Tkinter<br/>
-            <a href="#final-tp" className ="btn btn-outline-primary">Jump to Final Product</a>
+            <a href="pui-final/calendar#final-tp" className ="btn btn-outline-primary">Jump to Final Product</a>
         </p>
             <p>"Getting my Life Together" is a productivity
                 application that allows the user to schedule their tasks and events and
